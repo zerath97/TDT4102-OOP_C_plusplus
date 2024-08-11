@@ -5,9 +5,9 @@
 #include "Simple_window.h"
 
 // Project-Local functions
-#include "oppgaver/oppgave_1.h"
-#include "oppgaver/oppgave_2.h"
-#include "oppgaver/oppgave_4.h"
-#include "oppgaver/oppgave_5.h"
-#include "oppgaver/oppgave_6.h"
+#include "oppgaver/task1.h"
+#include "oppgaver/task2.h"
+#include "oppgaver/task4.h"
+#include "oppgaver/task5.h"
+#include "oppgaver/task6.h"
 #include "oppgaver/menu.h"
