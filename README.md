@@ -1,2 +1,2 @@
-# TDT4102-OOP_C_plusplus
+# TDT4102 - OOP C++
 Exercises in Object Oriented C++.
