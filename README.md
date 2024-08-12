@@ -30,16 +30,16 @@ My solutions to the exercises in Object Oriented C++.
 - Operator overloading and friend functions
 - Reading structured file
 - Plot of graph
-## Exercise 7:
+## Exercise 7: Not completed
 - Inheritance & Polymorphism classes
 - Make Emojiis using Graph_lib::
-## Exercise 8:
+## Exercise 8: Not completed
 - Constructors
 - Operators and interaction between classes of different types
 - Using simple classes for GUI
 - Pointers
 - std::set
-## Exercise 9:
+## Exercise 9: Not completed
 - Dynamic memory-handling using pointers
 - Copy-constructor and operator=
 - More operator overloading
